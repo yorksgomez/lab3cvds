@@ -1,0 +1,8 @@
+edu/eci/cvds/tdd/registry/RegisterResult.class
+edu/eci/cvds/tdd/aerodescuentos/ExcepcionParametrosInvalidos.class
+edu/eci/cvds/tdd/registry/Gender.class
+edu/eci/cvds/tdd/aerodescuentos/CalculadorDescuentos.class
+edu/eci/cvds/tdd/registry/Person.class
+edu/eci/cvds/tdd/registry/Registry.class
+edu/eci/cvds/App.class
+edu/eci/cvds/tdd/aerodescuentos/TipoExcepcion.class
